@@ -1,4 +1,4 @@
-
+![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Tyagi</h1>
 <h3 align="center">🌱 I’m currently working on Machine Learning, Python, Statistics , Deep Learning , NLP</h3>
 
