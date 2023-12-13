@@ -1,6 +1,6 @@
 ![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Tyagi</h1>
-<h3 align="center">🌱 I’m currently working on Machine Learning, Python, Statistics , Deep Learning , NLP</h3>
+<h3 align="center">🌱 I have knowledge in  Machine Learning, Python, Statistics , Deep Learning , NLP and MLOPS </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Insurance Domain](Swissre India branch ltd.)
 
-- 🌱 I’m currently learning **Deep Learning , Pyspark , Hadoop , PowerBI,AWS**
+- 🌱 I’m currently learning **Deep Learning , PowerBI, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshayTyagi12345/AkshayTyagi12345](https://github.com/AkshayTyagi12345/AkshayTyagi12345)
 
-- 💬 Ask me about **Python ,Machine Learning, MySQL ,NLP,Deep Learning ,Pyspark**
+- 💬 Ask me about **Python ,Machine Learning, MySQL ,NLP,Deep Learning ,MLOPS**
 
 - 📫 How to reach me **tyagi1510@gmail.com**
 
