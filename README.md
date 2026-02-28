@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full-Stack+AI+%26+MLOps+Engineer+🚀;Generative+AI+%26+LLM+Specialist+🧠;Advanced+RAG+%26+Cloud+Architect+☁️;Building+Highly+Scalable+Systems+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Full-Stack+AI+%26+MLOps+Engineer;Generative+AI+%26+LLM+Specialist;Advanced+RAG+%26+Cloud+Architect;Building+Highly+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,63 +41,64 @@
 
 <br/>
 
----
-
-### 🚀 Tech Arsenal
-
-<table>
-  <tr>
-    <td align="center"><b>🧠 Generative AI & LLMs</b></td>
-    <td align="center"><b>☁️ Cloud, DevOps & MLOps</b></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/LangSmith-008080?style=for-the-badge&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/RAG_%26_Advanced_RAG-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/MCP_Servers-4B8BBE?style=for-the-badge&logo=server&logoColor=white" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Dataiku-00C0D4?style=for-the-badge&logo=dataiku&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Full-Stack Development</b></td>
-    <td align="center"><b>🧰 Next-Gen AI Dev Tools</b></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Cursor.ai-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<br/>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">🚀 Tech Arsenal</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaytyagi12345&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="akshaytyagi12345 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaytyagi12345&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="akshaytyagi12345 Top Langs" />
+  <b>🧠 Generative AI & LLM Ecosystem</b><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-008080?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_%26_Advanced_RAG-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Servers-4B8BBE?style=for-the-badge&logo=server&logoColor=white" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>☁️ Cloud, DevOps & MLOps</b><br/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataiku-00C0D4?style=for-the-badge&logo=dataiku&logoColor=white" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>💻 Full-Stack Development</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>🧰 Next-Gen AI Dev Tools</b><br/>
+  <img src="https://img.shields.io/badge/Cursor.ai-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaytyagi12345&show_icons=true&locale=en&theme=radical&hide_border=true" alt="akshaytyagi12345 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaytyagi12345&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=true" alt="akshaytyagi12345 Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaytyagi12345&theme=tokyonight&hide_border=true&background=0D1117" alt="akshaytyagi12345 Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaytyagi12345&theme=radical&hide_border=true" alt="akshaytyagi12345 Streak Stats" />
 </p>
